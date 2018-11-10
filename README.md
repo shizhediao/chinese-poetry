@@ -1,3 +1,22 @@
+=======
+目录说明（from diao）：
+
+ci：宋词
+
+lunyu：论语
+
+poetry：古诗（包括唐诗和宋诗）
+
+shijing：诗经
+
+以上每个文件夹根目录下有的是繁体字，有的是简体字。
+
+如果想用简体字，请统一使用*/simplified文件夹，例如poetry/simplified这个路径表示简体字
+
+json获取诗歌方式的字段统一为paragraphs
+
+=======
+
 chinese-poetry
 ==============
 
