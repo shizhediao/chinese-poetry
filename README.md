@@ -1,4 +1,6 @@
 =======
+如果想要便捷式的使用方法，请直接进入data文件夹，直接使用data文件夹就可以，其他不需要看了
+
 目录说明（from diao）：
 
 ci：宋词
@@ -14,6 +16,7 @@ shijing：诗经
 如果想用简体字，请统一使用*/simplified文件夹，例如poetry/simplified这个路径表示简体字
 
 json获取诗歌方式的字段统一为paragraphs
+
 
 =======
 
